@@ -4,6 +4,10 @@ main:
     url: https://www.assnat.qc.ca/en/exprimez-votre-opinion/petition/Petition-9319/index.html
   - title: "Home"
     url: /
+  - title: "Resources"
+    url: /resources
+  - title: "FAQ"
+    url: /faq
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
