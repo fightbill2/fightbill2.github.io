@@ -150,6 +150,7 @@ include:
   - _pages
 exclude:
   - "*.sublime-project"
+  - "index.html"
   - "*.sublime-workspace"
   - vendor
   - .asset-cache
