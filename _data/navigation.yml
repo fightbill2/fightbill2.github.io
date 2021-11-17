@@ -6,6 +6,8 @@ main:
     url: /
   - title: "Resources"
     url: /resources
+  - title: "ID change"
+    url: changenamesex/
   - title: "FAQ"
     url: /faq
   # - title: "Sample Posts"
