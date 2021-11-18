@@ -18,16 +18,16 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "McGill against bill2"
+title                    : "McGill students against Bill2"
 title_separator          : "---"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "McGill against bill2"
+name                     : "Fight Bill2"
+description              : "McGill students against bill2"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 # teaser                   : "/assets/images/apple-touch-icon.png"
-logo                     : "/assets/images/mcgill.png" 
+logo                     : "/assets/images/qm.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -96,7 +96,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Title"
+  name             : "Who we are?"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Some description"
   location         : 
@@ -104,16 +104,19 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your.name@email.com"
-    - label: "Website"
+      # url: "mailto:your.name@email.com"
+    - label: "Queer McGill"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.queermcgill.org/"
+    - label: "SSMU"
+      icon: "fas fa-fw fa-link"
+      url: "https://ssmu.ca/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
+    - label: "Trans Working Group"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/"
+      url: "https://www.facebook.com/groups/234213041161965/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"

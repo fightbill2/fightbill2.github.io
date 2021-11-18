@@ -39,7 +39,10 @@
   (info, $info-color),
   (facebook, $facebook-color),
   (twitter, $twitter-color),
-  (linkedin, $linkedin-color);
+  (linkedin, $linkedin-color),
+  (tiktok, #000000),
+  (instagram, #cd486b);
+  
 
   @each $buttoncolor, $color in $buttoncolors {
     &--#{$buttoncolor} {

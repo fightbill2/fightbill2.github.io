@@ -1,4 +1,4 @@
-# Fight bill2 website
+# mcgillagainstbill2.github.io
 
 ## How to run:
 
