@@ -1,5 +1,5 @@
 ---
-title: "Trans Resources"
+title: "Trans* Resources"
 permalink: /resources/
 date: 2021-11-22T03:02:20+00:00
 ---
@@ -16,17 +16,17 @@ date: 2021-11-22T03:02:20+00:00
 * Centre for Gender Advocacy Peer Support Line: 514-848-2424 x7880
 * Interligne: 514-866-0103 (Toll-free/text messaging: 1-888-505-1010)
 
-
+<hr>
 
 
 * **[Queer McGill](https://www.queermcgill.org/ "QM"):** a SSMU service by and for queer students, offering resources such as safer sex supplies,
 gender affirming gear, an English language queer specific library, social and educational events, community,
 and more.
 
-* **Union for Gender Empowerment:** a SSMU service working under a feminist and trans positive mandate,
+* **[Union for Gender Empowerment](https://theuge.org/):** a SSMU service working under a feminist and trans positive mandate,
 offering a pay-what-you-can coop, an English language library, a safe(r) space, and more.
 
-* **Student Wellness Hub:** the wellness hub counselors include a specific PRIDE team who specialize in
+* **[Student Wellness Hub](https://www.mcgill.ca/wellness-hub/):** the wellness hub counselors include a specific PRIDE team who specialize in
 2SLGBTQ+ individuals. They can also offer STI testing and gender affirming care including prescribing HRT
 (hormone replacement therapy).
 
@@ -39,7 +39,7 @@ and mental healthcare, legal and housing support, and more.
 gender affirming gear, a library, a wheelchair-accessible space, ongoing programming and campaigns, and
 more, to the general public.
 
-* **Project 10 (P10):** a meeting place and advocate for LGBTQ+ youth, offering groups, material resources,
+* **[Project 10 (P10)](https://p10.qc.ca/):** a meeting place and advocate for LGBTQ+ youth, offering groups, material resources,
 referrals, education, and more.
 
 * **Merekai Health Centre Gender Variance Program:** gender affirming and general healthcare for gender
