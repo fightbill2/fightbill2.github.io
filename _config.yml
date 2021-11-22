@@ -98,7 +98,7 @@ analytics:
 author:
   name             : "Who we are?"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Some description"
+  bio              : ""
   location         : 
   email            :
   links:
@@ -111,6 +111,9 @@ author:
     - label: "SSMU"
       icon: "fas fa-fw fa-link"
       url: "https://ssmu.ca/"
+    - label: "UGE"
+      icon: "fas fa-fw fa-link"
+      url: "https://theuge.org/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
