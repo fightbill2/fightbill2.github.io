@@ -27,7 +27,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 # teaser                   : "/assets/images/apple-touch-icon.png"
-logo                     : "/assets/images/qm.png"
+logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -98,7 +98,7 @@ analytics:
 author:
   name             : "Who we are?"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  bio              : "" #"We are a group of students at McGill University who plan on taking action and educating people on Bill 2 and providing support and resources for people who might be affected by this Bill. "
   location         : 
   email            :
   links:
